@@ -1,0 +1,14 @@
+{
+    "jsvue": {
+        "awscloudformation": {
+            "AuthRoleName": "my-app-jsvue-20190615201908-authRole",
+            "UnauthRoleArn": "arn:aws:iam::004859609792:role/my-app-jsvue-20190615201908-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::004859609792:role/my-app-jsvue-20190615201908-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "my-app-jsvue-20190615201908-deployment",
+            "UnauthRoleName": "my-app-jsvue-20190615201908-unauthRole",
+            "StackName": "my-app-jsvue-20190615201908",
+            "StackId": "arn:aws:cloudformation:us-east-1:004859609792:stack/my-app-jsvue-20190615201908/1f042320-8fdd-11e9-af7d-0e194fb09f5c"
+        }
+    }
+}
